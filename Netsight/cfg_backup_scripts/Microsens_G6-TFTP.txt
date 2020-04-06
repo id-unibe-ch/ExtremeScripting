@@ -37,9 +37,5 @@ Y
 @receive 20
 -----END SCRIPT-----
 -----BEGIN SCRIPT "Reset"-----
-reboot
-Y
-
-Y
-Y
+d.sy.r = CONFIRM
 -----END SCRIPT-----
